@@ -10,17 +10,20 @@
   <img src="https://komarev.com/ghpvc/?username=DarshilSharma24&label=Profile%20Views&color=6C5CE7&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
+<br>
 
 ### 🎓 About Me
 
-- 🏫 B.Tech in **Computer Science Engineering** (1st Year)
-- 🏢 Studying at **Techno India NJR Institute of Technology, Udaipur**
-- 🌱 Currently learning **Python, SQL & HTML**
-- 💡 Exploring the world of programming and web development
-- ⚡ Fun fact: Every expert was once a beginner — this is where my story begins!
+```text
+const darshil = {
+    role: "B.Tech CSE Student (1st Year)",
+    college: "Techno India NJR Institute of Technology, Udaipur",
+    learning: ["Python", "SQL", "HTML"],
+    mindset: "Every expert was once a beginner 🌱"
+};
+```
 
----
+<br>
 
 ### 🛠️ Tech Stack
 
@@ -28,28 +31,38 @@
   <img src="https://skillicons.dev/icons?i=python,mysql,html,vscode,git,github&theme=dark" />
 </p>
 
----
+<br>
+
+### 📈 Currently Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-progressing-6C5CE7?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-progressing-00D2FF?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-progressing-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
+
+<br>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DarshilSharma24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshilSharma24&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DarshilSharma24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DarshilSharma24&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshilSharma24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=DarshilSharma24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<br>
 
 ### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=DarshilSharma24&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshilSharma24&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
----
+<br>
 
 ### 🐍 Contribution Snake
 
@@ -57,9 +70,7 @@
   <img src="https://raw.githubusercontent.com/DarshilSharma24/DarshilSharma24/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-> 💡 **Note:** The snake animates itself automatically once you set up the free "snk" GitHub Action on your repo — ask me and I'll give you the 2-minute setup steps!
-
----
+<br>
 
 ### 🏆 GitHub Trophies
 
@@ -67,7 +78,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DarshilSharma24&theme=onedark&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
----
+<br>
 
 <p align="center">
   <i>⭐ "Every pro was once a beginner — this is where my journey begins." ⭐</i>
